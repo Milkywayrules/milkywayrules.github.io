@@ -1,3 +1,3 @@
-#Github Pages Root For Milkywayrules  
+# Github Pages Root For Milkywayrules  
 
-Coming very soon :)
+Coming very soon~ :)
